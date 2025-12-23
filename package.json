@@ -1,0 +1,35 @@
+{
+    "name": "pvd-website",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "next dev --webpack",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "eslint-config-next": "^16.1.0",
+        "framer-motion": "^10.16.0",
+        "i18next": "^23.7.6",
+        "next": "^16.1.0",
+        "react": "^19.2.3",
+        "react-dom": "^19.2.3",
+        "react-i18next": "^13.5.0",
+        "react-icons": "^4.12.0"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.39.2",
+        "@types/react": "^18.2.37",
+        "@types/react-dom": "^18.2.15",
+        "autoprefixer": "^10.4.16",
+        "eslint": "^9.39.2",
+        "eslint-plugin-react": "^7.37.5",
+        "eslint-plugin-react-hooks": "^7.0.1",
+        "eslint-plugin-react-refresh": "^0.4.26",
+        "globals": "^16.5.0",
+        "postcss": "^8.4.31",
+        "tailwindcss": "^3.3.5"
+    }
+}

@@ -1,0 +1,501 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "projects": "Projects",
+        "services": "Services",
+        "sustainability": "Sustainability",
+        "gallery": "Gallery",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "TO BE A LEADING",
+        "subtitle": "Environment Management & Resettlement Development Company",
+        "description": "Phornsavarn Development Sole Company Limited (PVD) is a specialized provider of end-to-end management of the entire Resettlement Action Plan (RAP) cycle and Livelihood and Income Restoration Program (LIRP) services, operating under a Lump Sum Turnkey (LSTK) model for major hydropower projects.",
+        "cta": "Explore Our Projects",
+        "learnMore": "Learn More"
+    },
+    "about": {
+        "title": "ABOUT PVD",
+        "subtitle": "20+ Years of Excellence in Resettlement & Livelihood Restoration",
+        "description": "Phornsavarn Development Sole Company Limited (PVD) is a specialized provider of end-to-end management of the entire Resettlement Action Plan (RAP) cycle and Livelihood and Income Restoration Program (LIRP) services, operating under a Lump Sum Turnkey (LSTK) model for major hydropower projects. With over 20 years of experience, including successful project completions like NN2 (1,053 HHs), XHPP (663 HHs) and ongoing LPHPP (1,593 HHs), PVD delivers holistic solutions encompassing the construction of quality housing, essential public infrastructure, community capacity building, and sustainable livelihood programs, with a focus on vulnerable families. We strictly adhere to international standards (e.g., IFC, World Bank Performance Standards) and the relevant policies of the Lao PDR, ensuring ethical and effective project delivery.",
+        "mission": {
+            "title": "Our Mission",
+            "text": "To deliver world-class resettlement and livelihood restoration programs that ensure Project-Affected Persons (PAPs) are better off than before project commencement."
+        },
+        "vision": {
+            "title": "Our Vision",
+            "text": "To be the leading company in Lao PDR for environment management and resettlement development, setting the standard for ethical, effective, and sustainable community development."
+        },
+        "values": {
+            "title": "Our Values",
+            "items": [
+                "Integrity & Ethics",
+                "Sustainability",
+                "Community-First Approach",
+                "Excellence in Delivery",
+                "Innovation & Best Practices"
+            ]
+        },
+        "expertise": {
+            "title": "Our Expertise & Experience",
+            "lstk": "Lump Sum Turnkey (LSTK) Model",
+            "lstkDesc": "We provide comprehensive end-to-end management of RAP and LIRP programs, taking full responsibility for all aspects of resettlement from planning through post-relocation support."
+        },
+        "history": {
+            "title": "History & Milestones",
+            "subtitle": "Our Journey of Growth and Achievement"
+        },
+        "team": {
+            "title": "The PVD Team",
+            "subtitle": "Multidisciplinary Experts Driving Successful Outcomes",
+            "description": "Our team comprises project managers, social development specialists, environmental experts, engineers, and community liaison officers working together to deliver comprehensive resettlement solutions.",
+            "roles": {
+                "projectManager": "Project Managers",
+                "socialSpecialist": "Social Development Specialists",
+                "environmentSpecialist": "Environment Specialists",
+                "communityLiaison": "Community Liaison Officers",
+                "engineer": "Engineers"
+            }
+        },
+        "partners": {
+            "title": "Partners & Shareholders",
+            "subtitle": "Strong Partnerships for Sustainable Development"
+        },
+        "trackRecord": {
+            "title": "Successful Track Record",
+            "nn2": "Nam Ngiep 2 (NN2) - 1,053 Households",
+            "xhpp": "Xayaburi HPP (XHPP) - 663 Households",
+            "lphpp": "Luang Prabang HPP (LPHPP) - 1,593 Households (Ongoing)"
+        }
+    },
+    "department": {
+        "title": "Communications & Promotional Support",
+        "overview": "The proposed department is established to provide strategic communications and promotional support across all PVD activities pertaining to our integrated Environmental Management Plan (EMP) and Resettlement Action Plan (RAP) turnkey contracts. Serving as the company's dedicated outreach, communication, and public relations arm, the department ensures the delivery of clear, consistent, and positive messaging to all key stakeholders. Its core mandate involves the comprehensive management of information dissemination, proactive stakeholder engagement, and targeted awareness campaigns.",
+        "objectives": {
+            "title": "Department Objectives",
+            "items": [
+                "Develop clear communication materials (brochures, posters, presentations)",
+                "Capture and promote success stories, progress photos, and video documentation",
+                "Create PVD profiles and the PVD website",
+                "Build a positive company image through transparent communication and professional outreach",
+                "Strengthen public understanding and support for all project components",
+                "Promote sustainable livelihood and social development initiatives",
+                "Support the documentation and dissemination of project activities and achievements",
+                "Ensure accurate and timely information sharing for all project components"
+            ]
+        }
+    },
+    "stats": {
+        "years": "Years of Experience",
+        "yearsValue": "20+",
+        "projects": "Major Projects",
+        "projectsValue": "5+",
+        "villages": "Villages Resettled",
+        "villagesValue": "50+",
+        "families": "Families Supported",
+        "familiesValue": "3,360+"
+    },
+    "projects": {
+        "title": "OUR PROJECTS",
+        "subtitle": "End-to-End RAP/LIRP Management Excellence",
+        "categories": {
+            "all": "All Projects",
+            "infrastructure": "Infrastructure Works",
+            "resettlement": "Resettlement",
+            "environment": "Environment Management",
+            "community": "Community Development",
+            "livelihood": "Livelihood Restoration",
+            "cultural": "Cultural Heritage"
+        },
+        "viewAll": "View All Projects",
+        "featured": "Featured Projects",
+        "role": "PVD Role",
+        "scope": "Scope & Scale",
+        "achievements": "Key Achievements",
+        "viewGallery": "View Project Gallery",
+        "items": {
+            "nn2": {
+                "title": "Nam Ngiep 2 Hydropower Project (NN2)",
+                "client": "Nam Ngiep 2 Power Company Limited",
+                "location": "Bolikhamxay Province, Lao PDR",
+                "role": "End-to-end RAP/LIRP Management (LSTK)",
+                "scope": "1,053 Households resettled",
+                "description": "Comprehensive resettlement program including new site construction, infrastructure development, and livelihood restoration for affected communities.",
+                "achievements": [
+                    "Complete village relocation with improved living standards",
+                    "New schools and health facilities constructed",
+                    "Sustainable livelihood programs established",
+                    "Full compensation and entitlement distribution"
+                ],
+                "status": "Completed"
+            },
+            "xhpp": {
+                "title": "Xayaburi Hydroelectric Power Project (XHPP)",
+                "client": "Xayaburi Power Company Limited",
+                "location": "Xayaburi Province, Lao PDR",
+                "role": "End-to-end RAP/LIRP Management (LSTK)",
+                "scope": "663 Households resettled",
+                "description": "Full-scale resettlement program with emphasis on ethnic minority community support and cultural heritage preservation.",
+                "achievements": [
+                    "Culturally-sensitive resettlement approach",
+                    "Temple and community facility reconstruction",
+                    "Agricultural livelihood restoration",
+                    "Vulnerable family support programs"
+                ],
+                "status": "Completed"
+            },
+            "lphpp": {
+                "title": "Luang Prabang Hydropower Project (LPHPP)",
+                "client": "Luang Prabang Power Company Limited",
+                "location": "Luang Prabang Province, Lao PDR",
+                "role": "End-to-end RAP/LIRP Management (LSTK)",
+                "scope": "1,593 Households (Ongoing)",
+                "description": "Largest ongoing resettlement project with comprehensive community development and livelihood restoration programs.",
+                "achievements": [
+                    "Modern resettlement site development",
+                    "Community infrastructure construction in progress",
+                    "Active livelihood restoration programs",
+                    "Continuous community engagement"
+                ],
+                "status": "Ongoing"
+            }
+        }
+    },
+    "services": {
+        "title": "OUR SERVICES",
+        "subtitle": "Integrated Resettlement Service Model with LSTK Approach",
+        "intro": "We provide end-to-end management of the entire Resettlement Action Plan (RAP) cycle, ensuring seamless integration between social objectives and construction timelines.",
+        "philosophy": {
+            "title": "Core Service Philosophy",
+            "description": "We provide comprehensive Lump Sum Turnkey (LSTK) management of Environment Management Programs and Resettlement Action Plans, taking full responsibility for delivering successful outcomes from planning through post-relocation support."
+        },
+        "phases": {
+            "phase1": {
+                "title": "Phase 1: Planning & Compliance",
+                "subtitle": "Risk Management",
+                "items": [
+                    "RAP Finalization & Compliance Review",
+                    "Census, Socio-Economic Surveys & Inventory of Losses (IOL)",
+                    "Public Consultation & Stakeholder Engagement",
+                    "Grievance Redress Mechanism (GRM) Setup"
+                ],
+                "table": {
+                    "header": [
+                        "Service",
+                        "Description",
+                        "Compliance Focus"
+                    ],
+                    "rows": [
+                        {
+                            "service": "RAP Finalization",
+                            "description": "Thorough review and refinement of the Resettlement Action Plan to ensure alignment with all lender safeguard policies (e.g., IFC PS5).",
+                            "compliance": "Guaranteed compliance review."
+                        },
+                        {
+                            "service": "Census & Socio-Economic Surveys",
+                            "description": "Accurate identification and inventory of losses (IOL) for all Project-Affected Persons (PAP) and vulnerable groups.",
+                            "compliance": "Establishes the legal baseline for compensation."
+                        },
+                        {
+                            "service": "Public Consultation & GRM Setup",
+                            "description": "Implementing a continuous, accessible, and culturally appropriate Grievance Redress Mechanism (GRM) and consultation schedule.",
+                            "compliance": "Secures genuine consent and reduces conflict."
+                        }
+                    ]
+                }
+            },
+            "phase2": {
+                "title": "Phase 2: Execution & Transition",
+                "subtitle": "Livelihood Security",
+                "items": [
+                    "Compensation & Entitlement Distribution",
+                    "Physical Relocation Support",
+                    "Housing/Site Provision (Serviced land/fully built houses)",
+                    "Completion Audit",
+                    "Post-Relocation Support (3-5 years LIRP continuation)"
+                ],
+                "table": {
+                    "header": [
+                        "Service",
+                        "Description",
+                        "Compliance Focus"
+                    ],
+                    "rows": [
+                        {
+                            "service": "Compensation & Entitlement",
+                            "description": "Continuous internal and external monitoring of RAP implementation against key performance indicators (KPIs) and safeguard requirements.",
+                            "compliance": "Provides verifiable data for lenders and stakeholders."
+                        },
+                        {
+                            "service": "Completion Audit",
+                            "description": "Preparation of the final compliance reports required by financing institutions for project close-out or transition.",
+                            "compliance": "Secures final sign-off and project closure."
+                        },
+                        {
+                            "service": "Post-Relocation Support",
+                            "description": "Continuation of LIRP and social support for a defined period (e.g., 3-5 years) to ensure full restoration of well-being.",
+                            "compliance": "Guarantees long-term stability and success."
+                        }
+                    ]
+                }
+            }
+        },
+        "coreSegments": {
+            "title": "Core Segments",
+            "subtitle": "Essential Program Components",
+            "items": {
+                "consultation": {
+                    "key": "A",
+                    "title": "Public Consultation and Communication",
+                    "items": [
+                        "Support RCP team on the activity of Organize Public Consultations with Project-Affected Persons (PAPs)",
+                        "Prepare materials (brochures, posters, videos) to explain project benefits and timelines",
+                        "Support RCP team on the activity of stakeholder meetings, public briefings, and information sessions",
+                        "Collect and document community feedback for management and reporting"
+                    ]
+                },
+                "compensation": {
+                    "key": "B",
+                    "title": "Compensation",
+                    "items": [
+                        "Prompt and fair payment for all lost assets (land, houses, crops, trees, wells, etc.)"
+                    ]
+                },
+                "relocation": {
+                    "key": "C",
+                    "title": "Physical Relocation",
+                    "items": [
+                        "Support for the act of moving from the native village to the new site"
+                    ]
+                },
+                "housing": {
+                    "key": "D",
+                    "title": "Housing/Site Provision",
+                    "items": [
+                        "Provision of a fully serviced plot of land (with water, sanitation, and access roads) at the new resettlement site, or provision of a fully built house"
+                    ]
+                },
+                "health": {
+                    "key": "E",
+                    "title": "Public Health and Environmental Awareness",
+                    "items": [
+                        "Support EMP team to develop media content (social media, radio, local newsletters and posters) for environmental education",
+                        "Public Awareness Programs on environmental protection (waste management, tree planting, biodiversity)",
+                        "Develop awareness campaigns on hygiene, disease prevention, and health services"
+                    ]
+                },
+                "communication": {
+                    "key": "F",
+                    "title": "Project Activity Communication Support",
+                    "subtitle": "Provide marketing and documentation support for activities such as:",
+                    "items": [
+                        "River Pondage Area Clearing",
+                        "Construction of PAP Houses, Infrastructure, and Facilities",
+                        "Capture and promote success stories, progress photos, and video documentation",
+                        "Ensure branding consistency across all visual communication materials"
+                    ]
+                },
+                "community": {
+                    "key": "G",
+                    "title": "Community Development and Livelihood Promotion",
+                    "items": [
+                        "Promote community success stories through newsletters, short films, and case studies",
+                        "Support the Livelihood and Income Restoration Program, including the Vulnerable Families Support Program",
+                        "Highlight achievements",
+                        "Publish promotional materials for local products or enterprises",
+                        "Organize exhibitions or fairs to showcase community progress"
+                    ]
+                },
+                "grievance": {
+                    "key": "H",
+                    "title": "Grievance and Feedback Management",
+                    "subtitle": "Support the Grievance Redress Mechanism by:",
+                    "items": [
+                        "Creating awareness materials on grievance submission channels",
+                        "Maintaining a transparent record of public concerns and resolutions",
+                        "Communicating results back to communities effectively"
+                    ]
+                }
+            }
+        },
+        "essentialPrograms": {
+            "title": "Essential Program Components",
+            "lirp": {
+                "title": "Livelihood & Income Restoration Program (LIRP)",
+                "description": "Focus on the Vulnerable Families Support Program and Community Development initiatives."
+            },
+            "consultation": {
+                "title": "Public Consultation & Stakeholder Engagement",
+                "description": "Organizing Public Consultations, preparing materials, and managing community feedback. GRM awareness and transparent resolution communication."
+            },
+            "health": {
+                "title": "Public Health & Environmental Awareness",
+                "description": "Developing awareness campaigns on hygiene, disease prevention, and waste management."
+            },
+            "communication": {
+                "title": "Project Activity Communication Support",
+                "description": "Documentation of major milestones (e.g., River Pondage Area Clearing, Construction Progress)."
+            }
+        },
+        "items": {
+            "newSite": {
+                "title": "New Site Construction",
+                "desc": "Planning and construction of new resettlement sites with complete infrastructure, utilities, and community facilities."
+            },
+            "infrastructure": {
+                "title": "Infrastructure Construction",
+                "desc": "Building essential infrastructure including main roads, village roads, bridges, water supply systems, and electricity networks."
+            },
+            "publicBuildings": {
+                "title": "Public Buildings/Facilities Construction",
+                "desc": "Construction of schools, teacher dormitories, small hospitals, temples, Village Offices, Security Service Group Offices, and Community Markets."
+            },
+            "emp": {
+                "title": "Environment Management Program (EMP)",
+                "desc": "Comprehensive environmental management in new sites including waste management, green space development, and environmental awareness campaigns."
+            },
+            "riverClearing": {
+                "title": "River Pondage Area Clearing",
+                "desc": "Clearing and preparation of reservoir areas for hydropower projects with proper environmental management."
+            },
+            "cdp": {
+                "title": "Community Development Program (CDP)",
+                "desc": "Programs to strengthen community bonds, develop local governance capacity, and improve quality of life in resettlement areas."
+            },
+            "livelihood": {
+                "title": "Livelihood & Income Restoration Program (LIRP)",
+                "desc": "Supporting all families with sustainable livelihood opportunities, skills training, and special focus on Vulnerable Families Support Program."
+            },
+            "compensation": {
+                "title": "Compensation & Relocation Program",
+                "desc": "Fair compensation based on detailed Inventory of Losses (IOL) and smooth physical relocation assistance for affected communities."
+            },
+            "consultation": {
+                "title": "Public Consultation & Stakeholder Engagement",
+                "desc": "Organizing public consultations, preparing materials, managing community feedback, and ensuring transparent GRM communication."
+            },
+            "health": {
+                "title": "Public Health & Environmental Awareness",
+                "desc": "Developing awareness campaigns on hygiene, disease prevention, waste management, and environmental conservation."
+            }
+        }
+    },
+    "sustainability": {
+        "title": "SUSTAINABILITY & COMPLIANCE",
+        "subtitle": "Committed to Ethical, Effective & Sustainable Development",
+        "commitment": {
+            "title": "Commitment to Standards",
+            "description": "We strictly adhere to international and national standards, ensuring ethical and effective project delivery."
+        },
+        "ethical": {
+            "title": "Ethical Foundation",
+            "desc": "Our process is driven by the mandate to ensure that all Project-Affected Persons (PAPs) achieve a restored or improved quality of life."
+        },
+        "environmental": {
+            "title": "Environmental Responsibility",
+            "desc": "We implement comprehensive environmental management programs to minimize impact, promote ecological balance, and ensure sustainable development."
+        },
+        "social": {
+            "title": "Social Responsibility",
+            "desc": "Our Livelihood & Income Restoration Program (LIRP) and Vulnerable Family Support Programs ensure no one is left behind, with guaranteed 3-5 years post-relocation support."
+        },
+        "compliance": {
+            "title": "Compliance & Standards",
+            "desc": "We adhere strictly to both international standards and national regulations, ensuring full compliance and accountability."
+        },
+        "international": {
+            "title": "International Standards",
+            "items": [
+                "IFC Performance Standards (especially PS5 - Land Acquisition and Involuntary Resettlement)",
+                "World Bank Safeguard Policies",
+                "Asian Development Bank Safeguard Policy",
+                "International Best Practices for Resettlement"
+            ]
+        },
+        "national": {
+            "title": "National Compliance",
+            "items": [
+                "Lao PDR Environmental Protection Law",
+                "National Resettlement Policy",
+                "Land Law and Decree on Compensation",
+                "Relevant Provincial and District Regulations"
+            ]
+        },
+        "transparency": {
+            "title": "Transparency & Accountability",
+            "grm": {
+                "title": "Grievance Redress Mechanism (GRM)",
+                "desc": "We maintain a transparent process for submitting, tracking, and resolving community grievances, ensuring trust and accountability."
+            },
+            "monitoring": {
+                "title": "Monitoring & Audit",
+                "desc": "Continuous internal and external monitoring throughout project implementation, leading to a final Completion Audit for lenders and stakeholders."
+            }
+        },
+        "outcomes": {
+            "title": "Sustainable Outcomes",
+            "desc": "Through our LIRP and post-relocation support programs (typically 3-5 years), we guarantee long-term stability and success for resettled communities."
+        }
+    },
+    "gallery": {
+        "title": "PROJECT GALLERY",
+        "subtitle": "Visual Documentation of Our EMP&RAP Progress",
+        "sections": {
+            "photos": "Project Photos",
+            "videos": "Videos",
+            "maps": "Maps & Layouts"
+        },
+        "categories": {
+            "all": "All",
+            "nn2": "Nam Ngiep 2 (NN2)",
+            "xhpp": "Xayaburi Hydroelectric Power Project (XHPP)",
+            "lphpp": "Luang Prabang HPP (LPHPP)"
+        },
+        "buildingTypes": {
+            "villageOffice": "Village Office",
+            "securityOffice": "Security Service Group Office",
+            "school": "Schools",
+            "teacherDorm": "Teacher Dormitory",
+            "hospital": "Small Hospital",
+            "temple": "Temples",
+            "market": "Community Market"
+        },
+        "infrastructureTypes": {
+            "mainRoad": "Main Road",
+            "villageRoad": "Village Road",
+            "electricity": "Electricity Supply",
+            "water": "Water Supply"
+        },
+        "lrpActivities": {
+            "farmland": "Farmland Development",
+            "sustainable": "Sustainable Occupation Households"
+        },
+        "viewMore": "View More"
+    },
+    "contact": {
+        "title": "CONTACT US",
+        "subtitle": "Get in Touch with Our Team",
+        "office": {
+            "title": "Head Office",
+            "address": "Address",
+            "phone": "Phone",
+            "email": "Email"
+        },
+        "form": {
+            "name": "Your Name",
+            "email": "Email Address",
+            "subject": "Subject",
+            "message": "Your Message",
+            "submit": "Send Message"
+        }
+    },
+    "footer": {
+        "company": "Phornsavarn Development Sole Company Limited",
+        "tagline": "Ensuring Project-Affected Persons are Better Off Than Before",
+        "quickLinks": "Quick Links",
+        "contact": "Contact Info",
+        "followUs": "Follow Us",
+        "rights": "All rights reserved."
+    }
+}
